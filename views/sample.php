@@ -1,0 +1,1 @@
+I am an empty sample page. <a href="home">Go home</a>
