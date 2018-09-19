@@ -2,10 +2,6 @@
 Simple-php is a tiny php framework for quickly building a web app without any configurations.
 [Recommended static sites, landing pages etc. But can be modified for dynamic websites]
 
-
-[Demo](https://oncebot.github.io/simple-php/)
-
-
 ### Uses
 * Add your php pages in views folder.
 * The file name without the .php extension will be your URL for that page.
